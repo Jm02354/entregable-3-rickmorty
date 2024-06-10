@@ -1,0 +1,13 @@
+.btn__prev {
+  border-radius: 6px 6px 6px 6px;
+  padding: 5px 15px;
+  background-color: #71a821;
+  color: inherit;
+}
+.btn__next {
+  border-radius: 6px 6px 6px 6px;
+  padding: 5px 15px;
+  margin-top: 5px;
+  background-color: #71a821;
+  color: inherit;
+}
